@@ -3,3 +3,4 @@ data/Retail_Transactions_Dataset.csv
 data/UserItemData.csv
 data/UserItemData.rar
 .venv 
+venv/
