@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Two Option Circles</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        :root {
+            --bg: #0f172a;
+            /* page background */
+            --card: #111827;
+            /* card background */
+            --text: #e5e7eb;
+            /* primary text */
+            --muted: #9ca3af;
+            /* muted text */
+            --brand: #6366f1;
+            /* accent color */
+            --ring: rgba(99, 102, 241, .45);
+            /* focus ring */
+            --ok: #22c55e;
+            /* success */
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            margin: 0;
+            font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Arial, sans-serif;
+            background: radial-gradient(1200px 1200px at 10% 10%, rgba(99, 102, 241, .15), transparent 55%),
+                radial-gradient(1000px 800px at 90% 20%, rgba(34, 197, 94, .12), transparent 50%),
+                var(--bg);
+            color: var(--text);
+            display: grid;
+            place-items: center;
+            padding: 32px;
+        }
+
+        .card {
+            width: 100%;
+            max-width: 860px;
+            background: linear-gradient(180deg, rgba(255, 255, 255, .03), rgba(255, 255, 255, .01)), var(--card);
+            border: 1px solid rgba(255, 255, 255, .06);
+            border-radius: 24px;
+            box-shadow: 0 15px 50px rgba(0, 0, 0, .35), inset 0 1px 0 rgba(255, 255, 255, .05);
+            padding: 28px;
+        }
+
+        .header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 16px;
+            margin-bottom: 20px;
+        }
+
+        .title {
+            font-size: clamp(18px, 2.2vw, 26px);
+            font-weight: 700;
+            letter-spacing: .3px;
+        }
+
+        .subtitle {
+            color: var(--muted);
+            font-size: 14px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(200px, 1fr));
+            gap: 28px;
+        }
+
+        /* Circle option */
+        .option {
+            position: relative;
+            isolation: isolate;
+            background: linear-gradient(180deg, rgba(255, 255, 255, .02), rgba(255, 255, 255, 0));
+            border: 1px solid rgba(255, 255, 255, .08);
+            border-radius: 24px;
+            padding: 24px 20px 28px;
+            transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+            display: grid;
+            place-items: center;
+            gap: 16px;
+            text-align: center;
+        }
+
+        .option:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 30px rgba(0, 0, 0, .35);
+        }
+
+        .circle {
+            width: 180px;
+            height: 180px;
+            border-radius: 999px;
+            display: grid;
+            place-items: center;
+            border: 2px dashed rgba(255, 255, 255, .18);
+            background: radial-gradient(220px 220px at 50% 40%, rgba(99, 102, 241, .12), transparent 60%);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .circle::after {
+            /* subtle inner glow */
+            content: "";
+            position: absolute;
+            inset: 0;
+            border-radius: inherit;
+            box-shadow: inset 0 0 0 2px rgba(255, 255, 255, .03), inset 0 30px 80px rgba(99, 102, 241, .12);
+            pointer-events: none;
+        }
+
+        .label {
+            font-weight: 700;
+            letter-spacing: .2px;
+        }
+
+        .desc {
+            color: var(--muted);
+            font-size: 13px;
+            line-height: 1.35;
+            max-width: 28ch;
+        }
+
+        /* Radio input reset */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+        }
+
+        /* Selected state */
+        .option[data-checked="true"] {
+            border-color: rgba(99, 102, 241, .65);
+            box-shadow: 0 16px 40px rgba(99, 102, 241, .18);
+        }
+
+        .option[data-checked="true"] .circle {
+            border-style: solid;
+            border-color: var(--brand);
+            box-shadow: 0 0 0 6px rgba(99, 102, 241, .15);
+        }
+
+        /* Focus ring for keyboard users */
+        .option:focus-within {
+            outline: none;
+            box-shadow: 0 0 0 4px var(--ring), 0 10px 30px rgba(0, 0, 0, .35);
+        }
+
+        .badge {
+            position: absolute;
+            top: 14px;
+            right: 14px;
+            font-size: 11px;
+            letter-spacing: .3px;
+            text-transform: uppercase;
+            background: rgba(99, 102, 241, .18);
+            border: 1px solid rgba(99, 102, 241, .35);
+            padding: 6px 8px;
+            border-radius: 999px;
+            color: #c7d2fe;
+        }
+
+        /* Footer */
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 22px;
+            gap: 16px;
+        }
+
+        .hint {
+            color: var(--muted);
+            font-size: 13px;
+        }
+
+        .btn {
+            appearance: none;
+            border: 0;
+            border-radius: 14px;
+            padding: 12px 18px;
+            font-weight: 700;
+            background: linear-gradient(180deg, #818cf8, #6366f1);
+            color: white;
+            cursor: pointer;
+            box-shadow: 0 10px 24px rgba(99, 102, 241, .35);
+            transition: transform .14s ease, box-shadow .14s ease, opacity .14s ease;
+        }
+
+        .btn:hover {
+            transform: translateY(-1px);
+            box-shadow: 0 14px 32px rgba(99, 102, 241, .45);
+        }
+
+        .btn:active {
+            transform: translateY(0);
+            box-shadow: 0 8px 18px rgba(99, 102, 241, .35);
+        }
+
+        .btn[disabled] {
+            opacity: .55;
+            cursor: not-allowed;
+            box-shadow: none;
+        }
+
+        /* Responsive tweaks */
+        @media (max-width: 720px) {
+            .grid {
+                grid-template-columns: 1fr;
+            }
+
+            .circle {
+                width: 160px;
+                height: 160px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="site-header">
+        <div class="header-content">
+            <a href="index.html">
+                <img src="customer_360_logo.png" alt="Customer360 Logo" style="height: 100px; margin-right: 0px;">
+            </a>
+            <h1 class="title"> Turning Data into Insights for Digital
+                Excellence using Recommendation System</h1>
+        </div>
+    </header>
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Your form card goes here -->
+        <div class="form-container">
+            <!-- existing Add the User Details form -->
+            <form class="card" id="choiceForm" aria-labelledby="title" aria-describedby="subtitle">
+                <div class="header">
+                    <div>
+                        <div class="title" id="title">How do you want recommendations?</div>
+                        <div class="subtitle" id="subtitle">Pick one option below to continue.</div>
+                    </div>
+                </div>
+
+                <div class="grid" role="radiogroup" aria-label="Recommendation mode">
+                    <!-- Option 1: Has user details -->
+                    <label class="option" tabindex="0" data-checked="false">
+                        <span class="badge">Personalized</span>
+                        <input class="sr-only" type="radio" name="mode" value="personalized"
+                            aria-label="I have user details">
+                        <div class="circle" aria-hidden="true">
+                            <!-- Simple check glyph -->
+                            <svg width="72" height="72" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                                <path d="M20 7L9 18l-5-5" stroke="currentColor" stroke-width="2.2"
+                                    stroke-linecap="round" stroke-linejoin="round" />
+                            </svg>
+                        </div>
+                        <div class="label">I have user details</div>
+                        <div class="desc">Use known attributes (age, interests, history) for tailored recommendations.
+                        </div>
+                    </label>
+
+                    <!-- Option 2: Generic search recommendations -->
+                    <label class="option" tabindex="0" data-checked="false">
+                        <span class="badge"
+                            style="background: rgba(34,197,94,.18); border-color: rgba(34,197,94,.35); color: #bbf7d0;">Generic</span>
+                        <input class="sr-only" id="generic_recommendations" type="radio" name="mode" value="generic"
+                            aria-label="Give generic search recommendations">
+                        <div class="circle" aria-hidden="true">
+                            <!-- Search glyph -->
+                            <svg width="72" height="72" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                                <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2.2" />
+                                <path d="M20 20l-3.5-3.5" stroke="currentColor" stroke-width="2.2"
+                                    stroke-linecap="round" />
+                            </svg>
+                        </div>
+                        <div class="label">Generic search</div>
+                        <div class="desc">No personal data. Show popular or trending recommendations for everyone.</div>
+                    </label>
+                </div>
+
+                <div class="footer">
+                    <div class="hint" id="hint">No option selected.</div>
+                    <button class="btn" id="continueBtn" type="button" disabled>Continue</button>
+                </div>
+            </form>
+        </div>
+    </main>
+    <!-- Footer -->
+    <footer class="site-footer">
+        <p>© 2025 Recommendation App | Built with ❤️</p>
+    </footer>
+    <script>
+        (function () {
+            const form = document.getElementById('choiceForm');
+            const labels = Array.from(form.querySelectorAll('.option'));
+            const radios = Array.from(form.querySelectorAll('input[type="radio"][name="mode"]'));
+            const hint = document.getElementById('hint');
+            const btn = document.getElementById('continueBtn');
+
+            function setChecked(target) {
+                labels.forEach(l => l.dataset.checked = 'false');
+                target.closest('.option').dataset.checked = 'true';
+                btn.disabled = false;
+                const value = form.querySelector('input[name="mode"]:checked')?.value || target.value;
+                hint.textContent = value === 'personalized' ? 'Selected: Personalized (has user details).' : 'Selected: Generic search.';
+            }
+
+            // Click / keyboard selection on the label area
+            labels.forEach(label => {
+                label.addEventListener('click', (e) => {
+                    const input = label.querySelector('input');
+                    input.checked = true; setChecked(input);
+                });
+                label.addEventListener('keydown', (e) => {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                        e.preventDefault();
+                        const input = label.querySelector('input');
+                        input.checked = true; setChecked(input);
+                    }
+                });
+            });
+
+            // In case the radio itself changes (e.g. via screen reader)
+            radios.forEach(r => r.addEventListener('change', (e) => setChecked(e.target)));
+
+            // Demo: handle Continue
+            btn.addEventListener('click', () => {
+                const searchType = form.querySelector('input[name="mode"]:checked').value;
+                if (!searchType) return;
+                
+                var searchRoute = (searchType == "personalized") ? "personalized_search.html" : "generic_search.html";
+                window.location.href = searchRoute;
+            });
+        })();
+    </script>
+
+</body>
+
+</html>

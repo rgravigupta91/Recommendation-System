@@ -1,0 +1,1384 @@
+Customer_Name,Customer_Type,Gender,Age
+Stacey Price,Homemaker,F,25
+Michelle Carlson,Professional,F,47
+Lisa Graves,Professional,F,34
+Mrs. Patricia May,Homemaker,F,44
+Susan Mitchell,Young Adult,F,22
+Joshua Frazier,Retiree,M,72
+Victoria Garrett,Student,F,6
+Sydney Waller,Young Adult,F,29
+Kimberly Morgan,Homemaker,F,51
+Lori Conway,Young Adult,F,24
+Randall Roberts,Middle-Aged,M,51
+Jeremiah White,Young Adult,M,22
+Sheila Mcgee,Student,F,17
+Allen Miles,Retiree,M,76
+Mark Howard,Retiree,M,61
+Jesse Henderson,Retiree,M,63
+Eric Wall,Homemaker,M,33
+Vanessa Peck,Senior Citizen,F,71
+Dominique Stout,Professional,M,54
+Charles Brooks,Homemaker,M,20
+Angela Jones,Teenager,F,18
+John Roberts,Retiree,M,79
+Nicole White,Retiree,F,80
+Don Harris,Retiree,M,63
+Hannah Rowland,Student,F,13
+Jessica Gonzalez,Professional,F,36
+Christina Smith,Senior Citizen,F,65
+Latoya Allen,Professional,F,44
+Clayton Roth,Teenager,M,14
+Dennis Alvarez,Teenager,M,17
+Jose Hill,Senior Citizen,M,68
+Kristin Webb,Teenager,F,17
+Robert Gilbert DDS,Middle-Aged,M,42
+Thomas Oliver,Homemaker,M,59
+Stacy Owen,Teenager,F,18
+Ann Kane,Young Adult,F,30
+Mr. John Long,Middle-Aged,M,52
+Annette Robinson,Homemaker,F,51
+Kimberly Baldwin,Student,F,17
+Donald Bradford,Young Adult,M,22
+Mike Gilbert,Professional,M,44
+Rebecca Morton,Retiree,F,63
+Nicole Hernandez,Professional,F,52
+Paige White,Student,F,12
+Mr. Lance Perkins,Middle-Aged,M,42
+Kelly Foley,Professional,F,47
+Paula Maldonado,Student,F,17
+Roberto Franklin,Retiree,M,69
+Steven Clements,Teenager,M,17
+Katherine Luna,Retiree,F,68
+Ryan Hammond,Teenager,M,18
+Valerie Johnson,Retiree,F,65
+Jennifer Mitchell,Senior Citizen,F,70
+Nathan Schwartz,Senior Citizen,M,72
+Rebecca Gilmore,Retiree,F,66
+Todd Parrish,Student,M,17
+Christopher Blake,Young Adult,M,18
+Marie Young,Homemaker,F,48
+James Mccarthy,Middle-Aged,M,55
+Sharon Espinoza,Professional,F,55
+Rachel Rasmussen,Young Adult,F,18
+Thomas Lowery,Senior Citizen,M,72
+Richard Johnston,Professional,M,49
+Rebecca Vasquez,Professional,F,32
+Samuel Mays,Young Adult,M,30
+Karen Williams,Young Adult,F,25
+Ian Murphy,Homemaker,M,26
+Elizabeth Li,Retiree,F,75
+Brenda Chase,Teenager,F,19
+Anthony Miranda,Retiree,M,71
+Patricia Adams,Senior Citizen,F,61
+Jacob Douglas,Retiree,M,60
+Martin Gonzalez,Student,M,9
+Sherry Nunez,Homemaker,F,48
+Joshua Livingston,Middle-Aged,M,51
+Kimberly Morton,Teenager,F,15
+Robin Graham,Homemaker,M,47
+Donna Randall,Young Adult,F,26
+Alfred Schneider,Homemaker,M,51
+Taylor Wilson,Professional,M,55
+Matthew Henderson,Teenager,M,18
+Christina Hoover,Homemaker,F,23
+Paul Tate,Retiree,M,77
+Melissa Rose,Teenager,F,19
+Brittany Simmons,Student,F,10
+Henry Kirk,Student,M,7
+James Richardson,Retiree,M,64
+Keith Rodriguez,Retiree,M,71
+Marie Owen,Middle-Aged,F,53
+James Adams,Senior Citizen,M,63
+Troy Durham,Middle-Aged,M,41
+Dr. Adam Chan,Professional,M,45
+Mark Blankenship,Retiree,M,68
+Brooke Bennett,Young Adult,F,24
+Dale Castaneda,Middle-Aged,M,40
+Jim Wells,Teenager,M,19
+Michael Johnson,Middle-Aged,M,43
+Lisa Delgado,Professional,F,50
+Matthew Jackson,Professional,M,53
+Nicholas Stephens,Middle-Aged,M,42
+Jean Moore,Teenager,F,17
+Daniel Johnson,Student,M,5
+Maria Murray MD,Senior Citizen,F,78
+Scott Hunter,Professional,M,55
+Sean Moore,Retiree,M,69
+Alexander Harmon,Young Adult,M,27
+David Rodriguez,Retiree,M,70
+Linda Davis,Retiree,F,74
+Linda Hayden,Teenager,F,16
+Connie Baker,Middle-Aged,F,46
+Mr. Kenneth Watson,Teenager,M,15
+Maurice Brown,Teenager,M,19
+William Wood,Student,M,12
+Javier Ryan,Teenager,M,15
+Mr. David Casey,Teenager,M,18
+Ms. Megan Hicks,Teenager,F,16
+Debbie Tucker,Teenager,F,15
+Joseph Guzman,Middle-Aged,M,42
+Xavier Tran,Teenager,M,13
+Janet Sullivan,Retiree,F,61
+James Ray,Senior Citizen,M,75
+Jason Marshall,Homemaker,M,41
+Alexander Wright,Student,M,13
+Cathy Jackson,Homemaker,F,34
+Mercedes Anderson,Homemaker,F,37
+Anthony Christensen,Young Adult,M,18
+Cameron Walker,Professional,M,42
+Paul Brown,Professional,M,46
+Kimberly Stevens,Professional,F,55
+Jordan Garcia,Retiree,M,73
+Ryan Joseph II,Middle-Aged,M,47
+Debbie Brown,Senior Citizen,F,67
+Dawn Pratt,Senior Citizen,F,64
+Madison Hill,Teenager,F,16
+Kelly Atkinson,Teenager,F,16
+Patricia Fuller,Professional,F,41
+Debra Brown,Teenager,F,13
+Brett Hernandez,Professional,M,36
+Diane Hughes,Middle-Aged,F,54
+Jeffrey Jones,Senior Citizen,M,80
+Frank Torres,Teenager,M,13
+Daniel Mcguire,Professional,M,45
+Russell Harmon,Student,M,6
+John Benitez,Teenager,M,16
+Wesley Delacruz,Teenager,M,16
+Shannon Reid,Student,F,17
+Steven Brown,Senior Citizen,M,64
+Harold Miller,Middle-Aged,M,60
+Jessica Middleton,Middle-Aged,F,40
+Luke Bell,Retiree,M,80
+James Morales,Professional,M,45
+Ian Wilkinson,Middle-Aged,M,52
+Jason Andrade,Professional,M,33
+Zachary Anderson,Teenager,M,16
+Michael Perkins,Young Adult,M,28
+Andre Davis,Senior Citizen,M,74
+Heather Le,Middle-Aged,F,52
+Morgan Black,Teenager,M,18
+Chelsea Harding,Senior Citizen,F,66
+Tracy Bruce,Middle-Aged,F,56
+Michael Perez,Senior Citizen,M,72
+Ryan Atkinson,Retiree,M,80
+Trevor Miller,Senior Citizen,M,69
+Lisa Taylor,Young Adult,F,18
+Erik Russell,Middle-Aged,M,51
+Ms. Bianca Larson DDS,Young Adult,F,26
+Gary Jones,Professional,M,42
+Douglas Gray,Homemaker,M,36
+Lori Davis,Middle-Aged,F,58
+Kelly Hall MD,Teenager,F,18
+Scott Johnson,Homemaker,M,22
+Regina Andersen,Senior Citizen,F,75
+Jennifer Schmidt,Homemaker,F,51
+Manuel Drake,Middle-Aged,M,40
+James Ho DDS,Student,M,12
+Ryan Snow,Teenager,M,16
+Jessica Nolan,Homemaker,F,52
+Joann Davies,Senior Citizen,F,71
+Lori Hill,Professional,F,54
+Trevor Jenkins,Middle-Aged,M,43
+Jose Baker,Retiree,M,61
+Courtney Meyer,Young Adult,F,27
+John Burton,Young Adult,M,27
+Janet Robinson,Middle-Aged,F,57
+Mitchell Jackson,Professional,M,39
+Paula Gutierrez,Homemaker,F,36
+Rebecca Rice,Homemaker,F,57
+Samantha Wallace,Retiree,F,74
+Luke Hall,Middle-Aged,M,40
+Michael Gonzalez,Retiree,M,70
+Tyler Smith,Student,M,11
+Terry Norman,Retiree,M,70
+Cody Cobb,Retiree,M,67
+Sierra Scott,Retiree,F,60
+Emily Underwood,Senior Citizen,F,75
+Arthur Myers,Student,M,7
+Nicole Cantrell,Middle-Aged,F,55
+John Martin,Homemaker,M,25
+Jerry Williams,Retiree,M,71
+Jeffrey Brown,Young Adult,M,25
+Andrea Snyder,Professional,F,46
+Nancy Jackson,Teenager,F,15
+Olivia Jimenez,Retiree,F,80
+Angel Garcia,Senior Citizen,M,77
+Amy Rodriguez,Homemaker,F,34
+Angela Clark,Teenager,F,19
+Kelly Thompson,Homemaker,F,31
+Ryan Melendez,Homemaker,M,26
+Kimberly Cisneros,Young Adult,F,19
+Cole Smith,Middle-Aged,M,57
+Craig Smith,Young Adult,M,27
+Rodney Randolph,Teenager,M,16
+Patrick Campbell,Young Adult,M,18
+Emily Whitehead,Retiree,F,68
+Shawn Joyce,Senior Citizen,M,76
+Ashley White,Professional,F,46
+Richard Harris,Middle-Aged,M,47
+Matthew Bowen,Teenager,M,18
+James Smith,Senior Citizen,M,74
+Julia Baldwin,Retiree,F,72
+Kathleen Cline,Student,F,7
+Ashley Jones,Professional,F,33
+Matthew Hogan,Retiree,M,61
+Kristin Hudson,Professional,F,31
+Terri Dunn,Homemaker,F,30
+Jorge Keller,Senior Citizen,M,70
+Leslie Bell,Middle-Aged,F,57
+Bradley Flynn,Senior Citizen,M,73
+Morgan Phillips,Homemaker,M,29
+Victoria Duran,Teenager,F,16
+Bruce Smith,Young Adult,M,26
+Miss Jaime Roy MD,Young Adult,F,18
+Paul Kline,Student,M,18
+Mary Ryan,Young Adult,F,21
+Charles Parrish,Young Adult,M,19
+Victor Baker,Homemaker,M,53
+Mary Graham,Middle-Aged,F,50
+Matthew Peterson,Senior Citizen,M,60
+Leslie Walsh,Senior Citizen,F,72
+Gabriel Lucero,Student,M,7
+Connor Moore,Retiree,M,68
+Amy Campbell,Middle-Aged,F,58
+Lee Ramirez,Teenager,M,16
+Jaime Parker,Young Adult,M,21
+James Bailey,Professional,M,40
+Sara Lee,Young Adult,F,21
+Joanne Flores,Young Adult,F,21
+Kevin Cruz,Retiree,M,69
+Dawn Benson,Homemaker,F,23
+Ronald Pacheco,Homemaker,M,18
+Tracey Allen,Senior Citizen,F,69
+Tamara Burke,Student,F,12
+Cheryl Benson,Senior Citizen,F,60
+Taylor Jimenez,Professional,M,36
+Brenda Greene,Teenager,F,19
+Mark Johnson,Student,M,8
+Kenneth Williams,Retiree,M,65
+Nicholas Ellison,Student,M,10
+Felicia Johnson,Middle-Aged,F,56
+Kelly Adams,Retiree,F,77
+Richard Hopkins,Middle-Aged,M,40
+Brenda Brown,Retiree,F,71
+David Henry,Teenager,M,18
+Catherine Rodriguez,Student,F,15
+Sean Obrien,Teenager,M,17
+Scott Byrd,Homemaker,M,28
+Sheila Carroll,Teenager,F,16
+Jason Rodriguez,Professional,M,34
+Edward Anderson,Student,M,9
+Benjamin Barber,Retiree,M,71
+Lisa Evans,Homemaker,F,45
+Tracey Jackson,Senior Citizen,F,74
+Taylor Daniels,Retiree,M,69
+Dwayne Herrera,Teenager,M,16
+Stephanie Robinson,Student,F,5
+Caleb Bailey,Student,M,10
+Eric Moore DDS,Young Adult,M,20
+Barbara Griffin,Professional,F,30
+Jennifer Harrington DDS,Professional,F,30
+Bryce Smith,Homemaker,M,36
+Suzanne Silva,Homemaker,F,29
+David Prince,Student,M,12
+Dawn Alvarado,Middle-Aged,F,50
+Susan Lee,Teenager,F,16
+Pamela Adams,Senior Citizen,F,66
+Jessica Shaffer,Professional,F,50
+Mitchell Johnson,Student,M,13
+Robert Ibarra,Homemaker,M,37
+Mr. Matthew Wang,Professional,M,33
+Michele Davis,Homemaker,F,23
+Karen Jones,Teenager,F,19
+Kristi Sanchez,Professional,F,48
+James Aguilar,Retiree,M,74
+Lawrence Allison,Senior Citizen,M,73
+Benjamin Nguyen,Retiree,M,74
+Gina Gomez,Young Adult,F,27
+Gerald Massey,Senior Citizen,M,77
+William Willis,Teenager,M,17
+Tracy Wu,Senior Citizen,F,71
+Michael Wallace,Senior Citizen,M,63
+Carolyn Harris,Middle-Aged,F,53
+Molly Hernandez,Student,F,14
+Ashley Knight,Student,F,15
+Jessica Crawford,Student,F,6
+Yvette Bailey,Young Adult,F,30
+Mary Miller,Teenager,F,19
+Ashley Turner,Middle-Aged,F,46
+Dustin Walker,Professional,M,32
+Lynn Hopkins,Professional,F,46
+Taylor Cole,Student,F,8
+Jeffrey Wilson,Homemaker,M,49
+Christopher Nichols,Student,M,16
+Jacob Washington,Young Adult,M,26
+Ann Gamble,Professional,F,39
+Michael Ray,Teenager,M,16
+Karen Meyer,Middle-Aged,F,46
+Candice Shelton,Homemaker,F,38
+Cindy Russell,Professional,F,43
+Taylor Brady,Senior Citizen,M,66
+Paula Turner,Senior Citizen,F,70
+Jasmine Vasquez,Student,F,11
+Christopher Johnson,Young Adult,M,18
+Christopher Chandler,Retiree,M,63
+Susan Ball,Senior Citizen,F,66
+Bobby Warner,Teenager,M,17
+Victoria Jenkins,Middle-Aged,F,52
+Tyler Lara,Senior Citizen,M,62
+Ronald Chandler,Homemaker,M,49
+Xavier Palmer,Professional,M,41
+Lance Sims,Middle-Aged,M,55
+Richard Dean,Young Adult,M,26
+Corey Scott,Middle-Aged,M,48
+Timothy Calderon,Teenager,M,13
+Richard Clark,Retiree,M,64
+Adrienne Long,Middle-Aged,F,60
+Tanya Murphy,Student,F,15
+Traci Stevens,Retiree,F,70
+Melissa Freeman,Homemaker,F,21
+Colleen Mata,Professional,F,38
+Justin Rodriguez,Student,M,15
+Daniel Thomas,Student,M,15
+Susan Martin,Teenager,F,13
+Monica Howard,Senior Citizen,F,60
+Lauren Perry,Senior Citizen,F,79
+Cynthia Peters,Homemaker,F,27
+Andrew Shelton,Teenager,M,16
+Richard Page,Student,M,5
+Gregory George,Professional,M,46
+Joe Price,Homemaker,M,45
+Marissa Cisneros,Student,F,14
+Debbie Burns,Teenager,F,19
+William Cole,Young Adult,M,26
+David Gallagher,Student,M,10
+Melissa Mullins,Middle-Aged,F,46
+James Harris,Professional,M,44
+Melinda Daniels,Teenager,F,19
+Barbara Shepard,Professional,F,49
+Tyler Lambert,Homemaker,M,24
+Amanda Sanchez,Homemaker,F,47
+Kelly Tucker,Young Adult,F,30
+Tiffany Wilson,Teenager,F,15
+Seth Johnson,Young Adult,M,21
+Julie Perez,Senior Citizen,F,69
+Dustin Taylor,Senior Citizen,M,62
+Julia Ramirez,Retiree,F,76
+Richard Benjamin,Senior Citizen,M,69
+Richard Hamilton,Young Adult,M,23
+Deborah Reid,Senior Citizen,F,65
+Rachel Brown,Teenager,F,13
+Brett Smith,Homemaker,M,47
+Austin Hughes,Teenager,M,18
+Mark Smith,Professional,M,54
+Diana Giles,Teenager,F,13
+Cassandra Lloyd,Student,F,14
+Laura Phillips,Student,F,5
+Derrick Chen,Student,M,6
+Patricia Bernard,Young Adult,F,23
+Rebecca Martinez,Middle-Aged,F,48
+Victor Stein,Senior Citizen,M,71
+Thomas Mason,Student,M,17
+Carla Thomas,Homemaker,F,20
+Bradley Smith,Homemaker,M,44
+Joshua Chase,Young Adult,M,28
+Cheryl Olsen,Senior Citizen,F,64
+Benjamin Cabrera,Homemaker,M,18
+Joseph Nichols,Student,M,5
+Meghan Johnson,Senior Citizen,F,71
+Holly Mora,Homemaker,F,59
+Michael Smith,Professional,M,41
+Paul York,Teenager,M,16
+Justin Garza,Young Adult,M,19
+James Jones,Senior Citizen,M,61
+Randall Davis,Teenager,M,17
+Julie Hopkins,Professional,F,50
+Zachary Compton,Student,M,15
+Michelle White,Middle-Aged,M,51
+Jennifer Owens,Professional,M,51
+James Howe MD,Homemaker,M,21
+Kimberly Gomez,Senior Citizen,M,67
+Kathy Ross,Teenager,F,15
+Ariel Howell,Middle-Aged,F,43
+Lisa Smith,Young Adult,F,25
+Randy Nelson,Retiree,M,72
+Joseph Miller,Middle-Aged,M,56
+Paul Hart,Teenager,M,19
+Megan Hardin,Young Adult,F,25
+Jennifer Lee,Teenager,F,18
+Matthew Hall,Senior Citizen,M,63
+Thomas Green,Homemaker,M,50
+George Ruiz,Student,M,5
+Cameron Garner,Retiree,M,69
+Paul Clarke,Professional,M,35
+William Randolph,Teenager,M,14
+Kevin Morris,Homemaker,M,34
+Andrew Smith,Middle-Aged,M,45
+Whitney Mercado,Middle-Aged,F,55
+Dennis Cruz,Middle-Aged,F,42
+Kristina Mcguire,Middle-Aged,F,47
+Maria Ochoa,Senior Citizen,F,66
+Jeffrey Thomas,Senior Citizen,M,73
+Melissa Wallace,Young Adult,M,19
+Dawn Barnes,Professional,F,50
+Mr. Jimmy Martin MD,Senior Citizen,M,70
+Brian Turner,Student,M,16
+Hannah Moss,Student,F,10
+Joseph Barrett,Student,F,10
+Robert Williams,Young Adult,M,20
+Robin King,Professional,M,54
+Michael Morris,Senior Citizen,M,65
+Mrs. Jessica Pennington,Young Adult,F,21
+Brian Williams,Young Adult,F,28
+Tanya Jones,Student,F,8
+Greg Chandler,Homemaker,M,23
+Yvonne Garcia,Senior Citizen,M,68
+Tyler Clark,Student,M,13
+Carla Arias,Student,M,18
+Matthew Taylor,Retiree,M,67
+Angela Higgins,Retiree,F,62
+Erin Giles,Retiree,F,76
+Michael Huffman,Student,M,6
+Paul Walls,Student,M,17
+James Henderson,Middle-Aged,M,41
+Melanie Page,Senior Citizen,F,69
+Kenneth Cowan,Retiree,F,61
+Crystal Lewis,Professional,F,37
+Peter Berg,Homemaker,F,45
+Deborah Richardson,Professional,F,44
+Diane Ford,Homemaker,F,53
+Stephanie Brown,Middle-Aged,F,53
+Wesley Santos,Student,M,11
+Erik Butler,Professional,M,52
+Andrea Weeks,Young Adult,F,29
+Christopher Small,Professional,F,33
+Hannah Baird,Retiree,F,68
+Rebecca Velazquez,Senior Citizen,F,69
+Crystal Jones,Young Adult,F,18
+Bradley Lawrence,Senior Citizen,M,76
+Heather Hogan,Student,M,12
+Joseph Marquez,Professional,M,54
+Tyler Nelson,Middle-Aged,M,51
+Todd Vaughn,Young Adult,M,28
+Jose Hale,Retiree,M,68
+Collin Nash,Senior Citizen,M,64
+Jeff Fowler,Student,M,7
+Benjamin Lee,Homemaker,M,26
+Michael Padilla,Retiree,M,70
+Stephanie Jackson,Retiree,F,78
+Thomas Mcintyre,Retiree,M,77
+Robert Davis,Student,M,10
+Marc Decker,Senior Citizen,M,71
+Shawn Morris,Retiree,M,75
+Denise Vaughan,Young Adult,M,21
+Sarah Harris,Retiree,F,62
+Brian Cole,Retiree,F,70
+Scott Jenkins,Retiree,M,76
+John Goodwin,Middle-Aged,M,54
+Ashley Ortiz,Young Adult,M,22
+Cynthia Harper,Senior Citizen,M,69
+John Taylor DDS,Middle-Aged,M,57
+Jennifer West,Teenager,M,16
+Toni Sanchez,Retiree,M,65
+Ronald Mills,Senior Citizen,M,69
+Kevin Underwood,Senior Citizen,M,80
+Jason Acosta,Professional,M,46
+Tracy Downs,Middle-Aged,M,50
+Tracy Kerr,Middle-Aged,F,46
+Michelle Moreno,Homemaker,F,34
+Douglas Schultz Jr.,Teenager,F,18
+Travis Brooks,Retiree,M,60
+Ashley Schultz,Young Adult,M,28
+James Hubbard,Teenager,M,18
+Barbara Mendez MD,Teenager,F,14
+Jonathan Spears,Student,F,11
+Tiffany Clark,Student,F,11
+Michelle Acosta,Student,F,17
+Erica Morales,Student,F,13
+Heather Peterson,Senior Citizen,F,61
+Terri May,Young Adult,F,18
+Lisa Cooper,Retiree,F,80
+Amanda Nelson,Senior Citizen,F,69
+Matthew Ruiz,Professional,M,33
+Kimberly Gallegos,Senior Citizen,M,77
+Brittany Griffin,Homemaker,M,53
+Bryan Sanford,Middle-Aged,M,55
+Robert Robertson,Senior Citizen,M,76
+Kristin Murray,Student,M,10
+Kimberly Torres,Teenager,F,19
+Dr. Shawn Gonzalez,Professional,F,40
+Jonathan Waller,Young Adult,M,19
+Valerie Wilson,Teenager,M,19
+David Shelton,Homemaker,M,38
+Jody Martin,Middle-Aged,M,40
+Brooke Larson,Teenager,F,17
+Kristin Saunders,Young Adult,F,26
+Jacob Kennedy,Student,F,9
+Tracy Pham,Retiree,F,80
+Vickie Callahan,Student,F,13
+Natalie Armstrong,Teenager,F,17
+Angelica Davis,Young Adult,F,23
+Christian Davidson,Senior Citizen,F,69
+Seth Woodward,Senior Citizen,M,74
+Jordan Kennedy,Senior Citizen,M,80
+Jennifer Williams,Teenager,F,15
+Brenda Martinez,Homemaker,F,23
+Lori Kane,Retiree,F,79
+Joseph Chavez,Middle-Aged,M,57
+Tonya Villarreal,Homemaker,F,41
+Anthony Hawkins,Retiree,M,74
+Alyssa Ramos,Middle-Aged,F,60
+Jason Lee,Retiree,M,65
+Alicia Mercer,Professional,F,43
+Aaron Reed,Student,M,13
+Garrett Miles,Homemaker,M,31
+Christopher Clark,Senior Citizen,M,65
+Andrew Newman,Retiree,M,74
+Dana Miller,Student,F,16
+Adam Rubio,Senior Citizen,M,67
+Samantha Poole,Homemaker,F,26
+Margaret Velez,Teenager,F,17
+Christian Tate,Senior Citizen,M,60
+Matthew Wood,Young Adult,M,18
+Andrea Cruz,Teenager,F,17
+Dawn Dawson,Student,F,10
+John Dickerson MD,Senior Citizen,M,66
+Ryan Stewart,Young Adult,M,24
+Benjamin Benson,Middle-Aged,M,44
+Karen Bond,Middle-Aged,F,57
+Karen Hernandez,Professional,F,43
+Carolyn Owens,Professional,F,54
+Gregory Baker,Student,M,11
+Elizabeth Wagner,Senior Citizen,F,65
+Eric Smith,Professional,M,48
+Rodney Mcgee,Student,M,6
+Nicole Gaines,Student,F,5
+Sandra Marshall,Young Adult,F,28
+Kimberly Anderson,Professional,F,37
+Jennifer Garcia,Retiree,F,64
+Rachel Garcia,Senior Citizen,F,62
+Kathryn White,Teenager,F,16
+Christina Perez,Professional,F,54
+Mark Morales,Middle-Aged,M,58
+Vickie Brooks,Student,F,16
+David Montoya,Senior Citizen,M,67
+Logan Adams,Student,M,13
+Nicole Jones,Homemaker,F,48
+Steven Robinson,Teenager,M,14
+Maureen Pace,Student,F,11
+Kristopher Cook,Retiree,M,71
+Donald Harris,Student,M,11
+Rachael Sanford,Teenager,F,13
+Jordan Spencer,Middle-Aged,M,52
+Joseph Payne,Middle-Aged,M,57
+Jeffrey May,Retiree,M,67
+Catherine Dalton,Middle-Aged,F,57
+Christopher Smith,Homemaker,M,43
+Cheryl Griffin,Student,F,5
+Jerry Berg,Homemaker,M,52
+Anthony Cervantes,Young Adult,M,29
+Julia Ray,Teenager,F,14
+Ashley Benton,Middle-Aged,F,45
+Jessica Lopez,Student,F,5
+Ruth Garcia,Professional,F,31
+Jesse Floyd,Homemaker,M,31
+Mary Perez,Student,F,12
+Douglas Gonzalez,Homemaker,M,58
+Sherri Graves,Retiree,F,65
+David Marks,Young Adult,M,27
+Kevin Boone,Retiree,M,65
+Jerry Garrett,Young Adult,M,23
+Kimberly Young,Young Adult,F,25
+Jenna Robinson,Middle-Aged,F,58
+Craig Hall,Retiree,M,76
+Amanda Blevins,Senior Citizen,F,62
+Sarah Aguirre,Homemaker,F,30
+Richard Randolph,Young Adult,M,28
+Luis Richmond,Homemaker,M,58
+Kim Campbell,Retiree,F,75
+Jack Mitchell,Middle-Aged,M,41
+Jose Knight,Young Adult,M,25
+Aaron Rasmussen,Retiree,M,63
+Tracy Morris,Student,F,17
+Richard Conley,Middle-Aged,M,41
+Juan Graham,Senior Citizen,M,66
+Timothy White,Senior Citizen,M,61
+Martin Foster,Professional,M,52
+Benjamin Weaver,Teenager,M,14
+Christopher Cooper,Professional,M,54
+Christopher Baker,Homemaker,M,29
+Kevin Reid,Senior Citizen,M,77
+Fred Velez,Young Adult,M,27
+Matthew Moran,Young Adult,M,27
+Adam Rodriguez,Homemaker,M,59
+Christian Hale,Homemaker,M,26
+Jessica Carr,Student,F,6
+Angela Navarro,Student,F,13
+Kiara Guerrero,Middle-Aged,F,51
+Lori Ramirez,Retiree,F,79
+Valerie Perry,Student,F,17
+Kelsey Moore,Middle-Aged,F,42
+Travis Parker,Middle-Aged,M,58
+Christopher Horton,Teenager,M,16
+Jason Brown,Senior Citizen,M,77
+Courtney Sexton,Middle-Aged,F,46
+Randy Valencia,Senior Citizen,M,64
+Beverly Robinson,Retiree,F,63
+Linda Thornton,Homemaker,F,23
+Scott Beck,Young Adult,M,21
+David Schmidt,Homemaker,M,56
+James Mcdaniel,Middle-Aged,M,55
+Travis Bates,Retiree,M,67
+Patrick Lewis,Professional,M,38
+Michael Schaefer,Teenager,M,14
+Christopher Taylor,Young Adult,M,21
+Guy Chan,Teenager,M,17
+Ryan Bishop,Teenager,M,14
+Andrew Baker,Middle-Aged,M,52
+Jared Norton,Middle-Aged,M,58
+Molly Wilson,Professional,F,52
+Lindsay Rogers,Professional,F,46
+Rita Williams,Middle-Aged,F,40
+Bobby French,Young Adult,M,22
+Elizabeth Ortega,Senior Citizen,F,75
+Dr. Christina Kelly,Homemaker,F,44
+Cynthia Fuentes,Young Adult,F,27
+Christopher Fowler,Teenager,M,16
+Toni Goodwin,Professional,F,52
+Katelyn Watts,Teenager,F,19
+Daniel Stevens,Homemaker,M,37
+Steven Calhoun,Young Adult,M,25
+Jeffrey Alexander,Homemaker,M,54
+Paul Gonzalez,Senior Citizen,M,79
+James Lloyd,Retiree,M,69
+Melanie Smith,Teenager,F,16
+Charlotte Johnson,Student,F,16
+Heather Shannon,Student,F,16
+Angela Anderson,Retiree,F,79
+Frank Jackson,Retiree,M,70
+Lindsay Wells,Young Adult,F,20
+Andrew Key,Middle-Aged,M,43
+Joseph Newton,Professional,M,36
+Megan Bowers,Senior Citizen,F,79
+Ricky Powers,Professional,M,34
+Michael Murphy,Homemaker,M,46
+Meghan Nelson,Professional,F,45
+William Turner,Homemaker,M,54
+Christopher Sutton,Middle-Aged,M,53
+Steve Collins,Middle-Aged,M,45
+George Butler,Professional,M,32
+Brittney Quinn,Young Adult,F,22
+Margaret Swanson,Young Adult,F,29
+Mrs. Vanessa Williams MD,Retiree,F,77
+Michelle Cole,Professional,F,52
+Nicholas Hunter,Teenager,M,18
+Rebecca Humphrey,Middle-Aged,F,54
+Tammy Fleming,Teenager,F,16
+Matthew Baker,Student,M,6
+Diana Kelly,Teenager,F,15
+Eric Jones,Senior Citizen,M,67
+Martin Dixon,Middle-Aged,M,49
+Thomas Livingston,Student,M,17
+Harold Thomas,Retiree,M,66
+Dr. Amy Wagner,Retiree,F,68
+Wendy Carr,Young Adult,F,18
+Lisa Washington,Student,F,16
+Melissa Crawford,Senior Citizen,F,80
+Victoria Brown,Senior Citizen,F,80
+Mr. Charles Ward,Middle-Aged,M,46
+Terry Villegas,Senior Citizen,M,75
+Dr. Sherry Mcgrath MD,Young Adult,F,26
+Mr. Nathan Jones MD,Young Adult,M,22
+Marcus Beck,Retiree,M,78
+Holly White,Student,F,11
+Amy Thomas,Teenager,F,13
+Michele Cook,Retiree,F,66
+Megan Duran,Middle-Aged,F,46
+Rachel Pearson,Student,F,11
+David Stone,Retiree,M,76
+Mark Martinez,Young Adult,M,26
+Chase Richard,Homemaker,M,36
+Barry Patterson,Senior Citizen,M,67
+Felicia Cook,Young Adult,F,19
+Jillian Walsh,Retiree,F,61
+Adam Garrett,Senior Citizen,M,79
+Richard Santiago,Retiree,M,77
+Diana White,Young Adult,F,23
+Cody Bates,Professional,M,44
+Mary Maddox,Student,F,13
+Christopher Davis,Teenager,M,17
+Thomas Fitzgerald,Retiree,M,80
+Paul Silva,Professional,M,47
+Sabrina Kim DDS,Young Adult,F,23
+Leslie Bowman,Homemaker,F,54
+Amanda Wilson DDS,Professional,F,52
+Kristin Rodriguez,Middle-Aged,F,58
+Kristen Ramsey,Teenager,F,15
+James Fox,Homemaker,M,24
+Mary Hendricks,Middle-Aged,F,41
+Jamie Williams,Young Adult,M,20
+Thomas Hughes,Middle-Aged,M,44
+Natasha Cooper,Teenager,F,16
+Kathleen Allen,Teenager,F,15
+Julie Johnson,Middle-Aged,F,40
+Gabriel Clark,Retiree,M,78
+Barry Warner,Young Adult,M,27
+Karen Carter,Homemaker,F,47
+Austin Moore,Homemaker,M,27
+Nicholas Henderson,Teenager,M,17
+Shelia Edwards,Retiree,F,64
+Laura Edwards,Homemaker,F,39
+Dylan Leonard,Young Adult,M,24
+Jeremiah Fernandez,Student,M,12
+Kyle Mitchell,Young Adult,M,26
+Bill Mejia,Student,M,7
+Edward Ramsey,Young Adult,M,18
+Elizabeth Brown,Professional,F,51
+Terri Reeves,Senior Citizen,F,65
+Sandra Griffith,Middle-Aged,F,55
+Andrea Allen,Retiree,F,70
+Kevin Townsend,Middle-Aged,M,40
+Amanda Cummings,Student,F,18
+Dr. Kiara Valentine DDS,Teenager,F,17
+Patricia Ward,Student,F,17
+Toni Harris,Young Adult,F,30
+Scott Nichols,Student,M,14
+Rebekah Rivera,Retiree,F,72
+Tricia Dillon,Young Adult,F,26
+Nicholas Silva,Senior Citizen,M,62
+Kelsey Schroeder,Student,F,18
+Daniel Foster,Retiree,M,76
+Rachel Carpenter,Professional,F,36
+Lauren Carson,Young Adult,F,22
+Aaron Henderson,Young Adult,M,22
+Chloe Parks,Middle-Aged,F,50
+Cynthia Lopez,Student,F,7
+Miranda Jimenez,Professional,F,36
+Paula Barton,Homemaker,F,27
+Rebecca Glenn,Senior Citizen,F,77
+Ian Martin,Retiree,M,74
+Miguel Kelly,Teenager,M,17
+Mark Casey,Homemaker,M,60
+Austin Reyes,Professional,M,39
+Heidi Perkins,Senior Citizen,F,75
+Brittany Peters,Professional,F,41
+Steven Andrade,Professional,M,35
+Samuel Mcconnell,Middle-Aged,M,56
+Sarah Jones,Homemaker,F,24
+Alexandra Kennedy,Professional,F,33
+David Espinoza,Middle-Aged,M,43
+Patricia Wilkinson,Senior Citizen,F,78
+Robert Foster,Retiree,M,72
+Catherine Baker,Senior Citizen,F,72
+Javier Snow PhD,Student,M,12
+Robert Mcdaniel,Homemaker,M,45
+Nicholas Washington,Middle-Aged,M,42
+Richard Huynh,Young Adult,M,22
+Kathryn Brooks,Teenager,F,13
+Christopher Wright,Teenager,M,18
+Robert Scott,Teenager,M,17
+Laura Schmidt,Retiree,F,76
+Edward Fernandez,Senior Citizen,M,63
+Daisy Cain,Professional,F,52
+Krystal Young,Homemaker,F,24
+Anna Richard,Homemaker,F,25
+Cheryl Solis,Professional,F,39
+Timothy Lane,Homemaker,M,59
+Peter Cruz,Middle-Aged,M,60
+Taylor Everett,Retiree,M,63
+Carla Smith,Homemaker,F,57
+Vanessa Myers,Student,F,7
+Joseph Roberts,Retiree,M,78
+Donna Fitzgerald,Teenager,F,18
+Brittany Ward,Homemaker,F,39
+Dennis Richardson,Student,M,10
+Misty Pena,Retiree,F,64
+Brenda Garcia,Student,F,5
+Ryan Newman,Middle-Aged,M,58
+Tiffany Kelley,Senior Citizen,F,76
+Seth Walker,Professional,M,47
+Monica Terrell,Senior Citizen,F,62
+Victoria Scott,Senior Citizen,F,71
+Steven Jackson MD,Professional,M,39
+Martin Love,Middle-Aged,M,60
+David Mcclure,Retiree,M,66
+Austin Deleon,Young Adult,M,19
+Tina Mooney,Retiree,F,78
+Melinda Crawford,Student,F,18
+Caleb Booth,Senior Citizen,M,60
+Louis Donovan,Student,M,16
+Kelli Fitzpatrick,Middle-Aged,F,45
+John Henderson DDS,Middle-Aged,M,47
+Kenneth Short,Senior Citizen,M,77
+Jacqueline Perez,Middle-Aged,F,57
+Julie Bowen,Teenager,F,18
+Aaron Davis,Young Adult,M,26
+Isabella Cooper,Homemaker,F,30
+Christie Ibarra,Homemaker,F,29
+Douglas Wise,Retiree,M,75
+Donald Gilbert,Young Adult,M,22
+Brandon Chen,Professional,M,49
+Mark Lynch,Middle-Aged,M,51
+Mary Tanner,Teenager,F,14
+Karen Davidson,Middle-Aged,F,45
+Ian Price,Middle-Aged,M,52
+Sarah Vasquez,Homemaker,F,55
+Leslie Graves,Teenager,F,17
+Christopher Garcia,Retiree,M,78
+Emily Martin,Young Adult,F,22
+Alicia Lawson,Student,F,9
+Beth Martinez,Teenager,F,15
+Ann Daugherty,Student,F,16
+Scott Smith,Middle-Aged,M,58
+Sharon Norman,Homemaker,F,58
+Jamie Bautista,Teenager,M,18
+Elizabeth Smith,Teenager,F,18
+Brenda Chavez,Senior Citizen,F,74
+Mary Hall,Professional,F,34
+Jessica Wade DVM,Middle-Aged,F,55
+Kimberly Williams,Student,F,14
+Brian Campos,Middle-Aged,M,46
+Ryan Bailey,Senior Citizen,M,73
+Jasmine Jones,Homemaker,F,43
+Lynn Smith,Retiree,F,71
+James Ramirez,Homemaker,M,53
+Stacy Ballard,Teenager,F,13
+Dr. Jerry Massey,Homemaker,M,58
+Marcus Smith,Student,M,16
+Jessica Rodriguez,Homemaker,F,43
+Heather Hunter,Senior Citizen,F,64
+Felicia Miller,Young Adult,F,30
+Benjamin Dyer,Middle-Aged,M,56
+Tammy Cabrera,Senior Citizen,F,69
+Teresa Ponce,Senior Citizen,F,66
+Karen Thompson,Student,F,7
+Jenna Barnett,Retiree,F,65
+Sonya Smith,Senior Citizen,F,63
+Renee Ramos,Student,F,13
+Nicole Scott,Homemaker,F,31
+Anthony Haynes,Young Adult,M,29
+Edward Shelton,Homemaker,M,37
+Rachel Potts,Senior Citizen,F,80
+Jackson Simpson,Teenager,M,16
+Larry Hoffman,Middle-Aged,M,60
+John Stout,Professional,M,30
+Evan Casey,Senior Citizen,M,80
+Jeanne Kennedy,Homemaker,F,37
+James Morse,Young Adult,M,18
+Derrick Fernandez,Young Adult,M,24
+Veronica Perry,Homemaker,F,31
+Cody Sanchez,Young Adult,M,24
+Alexandria Roberts,Homemaker,F,42
+Sarah Wheeler,Teenager,F,19
+Tara Gordon,Young Adult,F,18
+Ms. Stephanie Thompson,Professional,F,41
+Katrina Franklin,Retiree,F,61
+Brittney Johnson,Professional,F,47
+Timothy Jones,Teenager,M,14
+Colleen Daniels,Teenager,F,17
+Rachel Jacobs,Homemaker,F,55
+Jason Hawkins,Senior Citizen,M,68
+Zachary Gardner,Teenager,M,17
+Gregory Torres,Young Adult,M,22
+Frederick Hernandez,Professional,M,42
+Stephanie Diaz,Student,F,18
+Mrs. Brittany Snyder,Retiree,F,71
+Mason Rodriguez,Teenager,M,13
+Brian Allen,Homemaker,M,39
+Sarah Salas,Retiree,F,77
+Paul Patterson,Teenager,M,14
+Kristin Simmons,Student,F,16
+Peter Mathis,Senior Citizen,M,77
+Traci Smith,Teenager,F,15
+Brandi Mcguire,Homemaker,F,20
+Jesse Davis,Professional,M,45
+Jennifer Gonzalez,Young Adult,F,23
+Leah Rice,Student,F,8
+Danielle Holt,Senior Citizen,F,60
+Donna Williams,Young Adult,F,25
+Benjamin Wagner,Homemaker,M,35
+Justin Harris,Retiree,M,74
+Dawn Yu,Teenager,F,14
+Joseph Young,Teenager,M,17
+Dylan Bradley,Middle-Aged,M,48
+Shannon Meyer,Senior Citizen,F,62
+Nathan Morris,Retiree,M,72
+Steven Anderson,Retiree,M,61
+Mrs. Isabel Montoya DVM,Retiree,F,69
+Virginia Tanner,Retiree,F,63
+Christina Brooks,Teenager,F,15
+Ann Richard,Homemaker,F,30
+Kevin Snyder,Senior Citizen,M,60
+Tracy Shelton,Young Adult,F,26
+Ethan Ingram,Retiree,M,67
+Daniel Holland,Professional,M,43
+Sydney Henry,Teenager,M,18
+Shawn Smith,Retiree,M,78
+Edgar Larsen,Homemaker,M,41
+Jessica Pena,Teenager,F,15
+Lawrence Wilson,Senior Citizen,M,60
+Teresa Brooks,Retiree,F,80
+Pamela Taylor,Student,F,12
+Jeremy Chambers,Teenager,M,14
+Emily King,Professional,F,43
+Shane Campbell,Professional,M,37
+Robert Oneill,Teenager,M,18
+Jose Kelly,Middle-Aged,M,52
+Rachel Reyes,Young Adult,F,18
+Elizabeth Davis,Homemaker,F,32
+Victor Frank,Middle-Aged,M,41
+Andrew Stafford,Homemaker,M,43
+Cheryl Kelley,Middle-Aged,F,60
+Thomas Bishop,Student,M,16
+Amy Lawson MD,Teenager,F,15
+Brian Castro,Middle-Aged,M,51
+Jennifer Brock,Professional,F,35
+Kimberly Holden,Retiree,F,76
+Jill Allen,Student,F,17
+Patricia Rowe,Homemaker,F,48
+David Johnson,Middle-Aged,M,49
+Steven Guerrero,Teenager,M,15
+Krista Harris,Teenager,F,19
+Julie Lindsey,Senior Citizen,F,71
+Angel Johnson,Homemaker,F,26
+Charles Taylor,Senior Citizen,M,80
+Stephanie Smith,Professional,F,40
+Darrell Saunders,Professional,M,38
+Brent Brown,Middle-Aged,M,40
+Stephanie Tran,Teenager,F,15
+Christopher Harris,Young Adult,M,19
+Rose Williams,Homemaker,F,53
+Ryan Owens,Middle-Aged,M,40
+Joan Watson,Teenager,F,14
+Melissa Hernandez,Middle-Aged,F,47
+Brandy Hutchinson,Student,F,13
+Roger Holloway,Professional,M,34
+Wayne French DVM,Homemaker,M,24
+Michael Martinez,Young Adult,M,22
+Adam Hall,Homemaker,M,34
+Anthony Valenzuela,Retiree,M,70
+Samantha Nguyen,Teenager,F,15
+Kara Fuller,Senior Citizen,F,66
+Sara Rivers,Homemaker,F,38
+Shelby Allen MD,Young Adult,F,23
+Brenda Black,Student,F,16
+Matthew Davis,Professional,M,47
+Carl Thomas,Retiree,M,72
+Randy Allen,Young Adult,M,27
+Alex King,Professional,M,30
+Diane Garcia,Senior Citizen,F,71
+Thomas Vance,Young Adult,M,19
+Shane Davis,Professional,M,37
+Debra Anderson,Retiree,F,65
+Derrick Beck,Young Adult,M,19
+Daisy Weaver,Student,F,15
+Rebecca Jones,Senior Citizen,F,60
+Jordan Mcdaniel,Student,M,5
+Jennifer Nicholson,Teenager,F,13
+Taylor Anderson,Middle-Aged,M,56
+James Hartman,Young Adult,M,28
+Christine Brown,Retiree,F,60
+Brooke Lawrence,Teenager,F,15
+Diane Scott,Homemaker,F,33
+Barbara Allen,Retiree,F,63
+Wendy White,Senior Citizen,F,69
+Mrs. Stephanie Spencer,Student,F,18
+Sheri Lyons,Homemaker,F,28
+Jessica James,Professional,F,55
+Heather Mills,Middle-Aged,F,49
+Kenneth Barnes,Homemaker,M,36
+Michael Stein,Homemaker,M,47
+Jesse Lewis,Senior Citizen,M,79
+Jenny Larson,Professional,F,49
+William Anderson,Retiree,M,70
+Alice Moore,Professional,F,39
+Dr. Kenneth Anderson,Professional,M,47
+Brandon Smith,Homemaker,M,36
+Jesse Faulkner,Professional,M,34
+Michael Stevens,Young Adult,M,22
+Elizabeth Morgan,Middle-Aged,F,46
+Michael Riley,Senior Citizen,M,60
+Donald Francis,Student,M,9
+Garrett Hayden,Professional,M,41
+Kevin Young,Young Adult,M,28
+Shannon Garcia,Middle-Aged,F,50
+David Williamson,Young Adult,M,19
+Theresa Ballard,Senior Citizen,F,60
+Michael Taylor,Teenager,M,19
+Scott Hall,Teenager,M,13
+Mrs. Kara Brown,Senior Citizen,F,70
+Larry Burnett,Senior Citizen,M,80
+Theresa Daniel,Young Adult,F,24
+Terry Hughes,Senior Citizen,M,68
+Christine Johnson,Professional,F,38
+Daniel Nichols,Homemaker,M,56
+Brittany Lynch,Young Adult,F,22
+Kevin Wilson V,Retiree,M,77
+Paul Smith,Student,M,6
+Joseph Jacobs,Professional,M,41
+Sara Gray,Senior Citizen,F,79
+Lisa Johnson,Middle-Aged,F,53
+Paul Hernandez,Homemaker,M,39
+Brian Charles,Professional,M,38
+Andrea Garcia,Teenager,F,16
+Brian Mccall,Professional,M,44
+Jeffery Murphy,Professional,M,38
+Kenneth Allen,Teenager,M,16
+Angela Ramirez,Senior Citizen,F,66
+Meagan Reynolds,Professional,F,47
+Amanda Walker,Homemaker,F,55
+Diane Frye,Homemaker,F,40
+Jacqueline Lee,Homemaker,F,46
+William Stone,Student,M,13
+Kimberly Lane,Young Adult,F,26
+Sheila Jackson,Retiree,F,75
+Donna Aguilar,Young Adult,F,19
+Daniel Weaver,Student,M,11
+Anita Wilson,Homemaker,F,20
+Hailey Patterson,Homemaker,F,28
+Karen Sheppard,Student,F,15
+Jonathan Andrews,Senior Citizen,M,76
+Andrea Lowe,Young Adult,F,28
+Zoe Brown,Retiree,F,67
+Steven Michael,Professional,M,43
+James Green,Teenager,M,14
+Jose Thompson,Retiree,M,60
+Elizabeth Webster,Homemaker,F,52
+Jonathon Morton,Retiree,M,65
+Jennifer Nguyen,Student,F,15
+Andrea Anderson,Middle-Aged,F,58
+Christopher Maldonado,Professional,M,44
+Ryan Carroll,Homemaker,M,35
+Denise King,Homemaker,F,59
+Juan Murray,Middle-Aged,M,55
+Pamela Douglas,Professional,F,54
+William Mcclain,Teenager,M,16
+Amy Pena,Young Adult,F,21
+Diane Wright,Senior Citizen,F,65
+Robert Haynes,Professional,M,32
+Jason Jones,Student,M,10
+Angela Rubio,Student,F,12
+Megan Huber,Professional,F,50
+Derrick Dalton,Student,M,10
+Michael Harris,Homemaker,M,58
+Miguel Morrow,Teenager,M,17
+Gina Morris,Professional,F,31
+Cory Hughes,Senior Citizen,M,78
+John Smith,Teenager,M,19
+Cameron Edwards,Young Adult,M,27
+Jeffery James,Senior Citizen,M,67
+James Williams,Middle-Aged,M,51
+Kim Rivera,Senior Citizen,F,70
+Brenda Perez,Student,F,17
+Carrie Sandoval,Senior Citizen,F,69
+Melissa Cowan,Professional,F,32
+Lauren Mejia,Homemaker,F,36
+Stephen Medina,Middle-Aged,M,46
+Tracy Haas,Middle-Aged,F,41
+James Thomas,Senior Citizen,M,63
+Mr. Shane Price,Middle-Aged,M,43
+Christina Young,Professional,F,51
+Laura Thompson,Student,F,18
+Julie Abbott,Homemaker,F,49
+Faith Tapia,Middle-Aged,F,42
+Thomas Gomez,Young Adult,M,30
+Marcus Maxwell DDS,Professional,M,31
+Catherine Davidson,Senior Citizen,F,69
+Jordan Wells,Homemaker,M,26
+Brett Pearson,Young Adult,M,27
+Andrea Adams,Retiree,F,76
+Shawn Ryan,Professional,M,45
+Dustin Campbell,Homemaker,M,20
+Yolanda Jackson,Middle-Aged,F,53
+Mary Thornton,Student,F,8
+Anthony Knapp,Senior Citizen,M,65
+Elizabeth Wilcox,Homemaker,F,43
+Gregory Evans,Senior Citizen,M,78
+Kimberly Andrews,Professional,F,52
+Michael Lopez,Student,M,15
+Aaron Morgan,Middle-Aged,M,48
+Kevin Glass,Retiree,M,67
+Marvin Day,Professional,M,46
+Douglas Hicks,Student,M,7
+Anthony Sims,Student,M,9
+Tracey Montoya,Homemaker,F,52
+Kelly Tran,Student,F,15
+Eric Gray,Student,M,17
+Alexander Maldonado,Homemaker,M,46
+Mrs. Kimberly Johnson,Student,F,9
+Darlene Harris,Senior Citizen,F,68
+Barry Palmer,Professional,M,33
+Andrew Lawrence,Teenager,M,13
+Joann Hopkins,Professional,F,50
+Andrea Stevens,Student,F,5
+Jeremy Tanner,Homemaker,M,40
+Sabrina Hill,Middle-Aged,F,56
+Melissa Cooper,Young Adult,F,30
+Susan Patterson,Professional,F,54
+Amanda Thomas,Retiree,F,60
+Dwayne Perez,Student,M,11
+Megan Proctor,Homemaker,F,60
+Joseph Hall,Young Adult,M,21
+Molly Wood,Teenager,F,13
+Michael Green,Retiree,M,75
+Jessica Perez,Student,F,14
+Keith Thompson,Young Adult,M,28
+Jay Vang,Homemaker,M,42
+Elizabeth Knapp,Professional,F,43
+Michael Mcneil,Professional,M,38
+Rachel Cook,Senior Citizen,F,64
+Christine Fleming,Young Adult,F,24
+James Hernandez,Senior Citizen,M,66
+Bailey Greene,Young Adult,F,19
+Andrew Miller,Homemaker,M,53
+Laura Smith,Professional,F,35
+Shelia Pittman,Student,F,11
+John Campbell Jr.,Senior Citizen,M,78
+James Wagner,Middle-Aged,M,55
+Miguel Johnson MD,Professional,M,36
+Jennifer Hampton,Teenager,F,15
+Kenneth Hodges,Senior Citizen,M,63
+Jennifer Shannon,Young Adult,F,24
+Eric Hughes,Middle-Aged,M,51
+Kim Cummings,Professional,F,51
+Stephanie Thomas,Teenager,F,18
+Christine Williams,Professional,F,30
+Kenneth Love,Senior Citizen,M,64
+Jonathan Knight,Professional,M,38
+Ms. Christina Duncan,Teenager,F,17
+Theresa Collins,Middle-Aged,F,51
+Michael Jones,Professional,M,43
+Paula Obrien,Teenager,F,19
+Morgan Young,Student,M,10
+Charles Blankenship,Retiree,M,78
+Denise Bartlett,Young Adult,F,20
+Shawn Matthews,Teenager,M,14
+Jennifer Park,Middle-Aged,F,42
+Kyle Ramirez,Young Adult,M,25
+James Black,Professional,M,31
+Paul Ross,Young Adult,M,27
+Robert Vazquez,Young Adult,M,23
+Tony Dixon,Homemaker,M,57
+Mr. James Sullivan Jr.,Senior Citizen,M,61
+Rebecca Marshall,Senior Citizen,F,63
+Erica Dudley,Teenager,F,16
+Craig Jones,Student,M,17
+Brian Lewis,Young Adult,M,25
+Sarah Clark,Senior Citizen,F,67
+Austin Bean,Professional,M,32
+Haley Combs,Retiree,F,65
+Jonathan Cline,Retiree,M,60
+Rachel Wilcox,Middle-Aged,F,41
+Gina Wagner,Homemaker,F,43
+Marcus Collins,Teenager,M,13
+Jamie Simmons,Student,M,8
+Justin Flores,Teenager,M,16
+Kathleen Campbell,Student,F,14
+Rhonda Robinson,Senior Citizen,F,68
+Renee Zimmerman,Professional,F,52
+Amanda Moore,Senior Citizen,F,74
+Olivia Mitchell,Teenager,F,15
+Cassandra Allen,Retiree,F,66
+Christopher Morris,Homemaker,M,26
+Amanda Thompson,Student,F,12
+Charles Smith,Professional,M,54
+Amy Green,Homemaker,F,53
+Jason Crawford,Middle-Aged,M,55
+Vicki Russell,Professional,F,40
+Jennifer Howell,Student,F,18
+Edgar Gonzalez,Senior Citizen,M,65
+Robert Bell,Student,M,6
+Melissa Santiago,Student,F,17
+Matthew Khan,Middle-Aged,M,50
+Darren Brown,Teenager,M,14
+Stacy Koch,Middle-Aged,F,55
+Carla Gay,Young Adult,F,18
+Bobby Webb,Professional,M,54
+Tamara Moon,Senior Citizen,F,75
+Frank Dominguez,Teenager,M,14
+Heather Huffman,Professional,F,54
+Tommy Walter,Middle-Aged,M,58
+Tammy Pearson,Homemaker,F,20
+Amanda Perez,Homemaker,F,52
+Kelly Caldwell,Student,F,8
+David Fisher,Homemaker,M,58
+Alicia Wilson,Middle-Aged,F,41
+Robert Cox,Student,M,10
+Jeffery Freeman,Teenager,M,15
+Mario Smith,Middle-Aged,M,45
+Donald Chambers,Student,M,9
+Lisa Barrera,Homemaker,F,33
+Robert Smith,Middle-Aged,M,52
+Christina Ferguson,Student,F,17
+Isaac Hansen,Student,M,11
+Alex Smith,Homemaker,M,21
+Rhonda Collins,Student,F,16
+Julie Garcia,Young Adult,F,25
+Colin Burnett,Retiree,M,62
+Dana Moore,Student,F,5
+Douglas Hendrix,Professional,M,51
+Martin Smith,Teenager,M,19
+Jeffrey Rodriguez,Professional,M,44
+Christopher Vasquez,Retiree,M,62
+Rebecca Hoover,Senior Citizen,F,76
+Joseph Smith,Young Adult,M,28
+Ana Adams,Senior Citizen,F,61
+Chad Lindsey,Professional,M,53
+Michele Meyer,Homemaker,F,36
+Sara Hawkins,Young Adult,F,22
+Dylan Johnson,Young Adult,M,29
+Erika Burton,Senior Citizen,F,71
+Thomas Duran,Teenager,M,16
+Mr. Brian Mann DDS,Homemaker,M,59
+Daniel Adkins,Senior Citizen,M,73
+Carla Mason,Teenager,F,15
+Alison Morris,Middle-Aged,F,57
+Thomas Marquez,Retiree,M,78
+Mathew Evans,Middle-Aged,M,52
+Alec Gonzales,Middle-Aged,M,57
+April Powell,Homemaker,F,46
+Susan Miller,Young Adult,F,28
+Bradley Garrett,Young Adult,M,27
+Cameron Townsend,Senior Citizen,F,60
+Joann Miller,Retiree,F,72
+Phillip Olson,Retiree,M,72
+Brianna Hicks,Professional,F,53
+Brian Mitchell,Senior Citizen,M,64
+Elizabeth Howard,Retiree,F,70
+Brandon Lane,Middle-Aged,M,50
+Donna Soto,Professional,F,38
+Ashley Pittman,Professional,F,52
+Anita Campbell,Middle-Aged,F,48
+James Martinez,Homemaker,M,38
+Dominique Johnson,Retiree,M,63
+Reginald Gray,Professional,M,48
+Raven Thomas,Middle-Aged,F,51
+Ann Roman,Teenager,F,18
+Kenneth Gonzales,Young Adult,M,28
+Joshua Brady,Young Adult,M,27
+Jeanne Flores,Retiree,F,63
+Makayla Rivera,Middle-Aged,F,40
+Michael Morton,Young Adult,M,27
+Michelle Johnson,Senior Citizen,F,71
+Matthew Gutierrez,Homemaker,M,39
+Jacqueline Griffin,Middle-Aged,F,53
+Jenna Martin,Young Adult,F,25
+Curtis Ryan,Middle-Aged,M,58
+Willie Phillips,Senior Citizen,M,71
+Mrs. Teresa Strickland,Senior Citizen,F,80
+Rebekah Cox,Student,F,17
+Julie Avery MD,Student,F,6
+Anne Barton,Young Adult,F,18
+Joan Davis,Senior Citizen,F,63
+Amy Jones,Homemaker,F,30
+Lisa Andrews,Student,F,6
+Samuel Martinez,Retiree,M,71
+Jessica Clark,Teenager,F,14
+Kevin Jackson,Young Adult,M,23
+Lori Hall,Young Adult,F,22
+Calvin Hester,Senior Citizen,M,75
+Cassie Moreno,Retiree,F,73
+Heather Marks,Student,F,15
+Carolyn Brown,Senior Citizen,F,67
+Jessica Chambers,Young Adult,F,29
+Joseph Cole,Homemaker,M,58
+Bryce Huff,Senior Citizen,M,78
+John Snyder,Retiree,M,72
+Veronica Luna,Retiree,F,73
+Marc Anderson,Teenager,M,17
+Dr. Jordan Jackson,Teenager,M,13
+Karina Alvarez,Young Adult,F,23
+Kelly Hall,Middle-Aged,F,48
+Christopher Walker,Senior Citizen,M,64
+Kara Key,Student,F,10
+Daniel Guzman,Teenager,M,17
+Nathan Jackson,Young Adult,M,20
+Carmen Luna,Young Adult,F,21
+Carlos Watson,Senior Citizen,M,60
+Linda Choi,Retiree,F,66
+Dr. Jason Johnson Jr.,Teenager,M,15
+Sara Williams,Professional,F,33
+Erica Torres,Senior Citizen,F,72
+Christopher David,Teenager,M,13
+William Quinn,Professional,M,31
+Vanessa Wheeler,Retiree,F,71
+Virginia Mckee,Middle-Aged,F,43
+David King,Retiree,M,69
+Holly Kelly,Senior Citizen,F,75
+Elizabeth Evans,Middle-Aged,F,56
+Sharon Smith,Student,F,15
+Stephen Jennings,Senior Citizen,M,70
+Donna Harrison,Senior Citizen,F,72
+Jessica Porter,Homemaker,F,21
+Elizabeth Massey,Student,F,12
+Jesse Elliott,Professional,M,38
+Caitlin Hamilton,Teenager,F,19
+Lucas Williams,Teenager,M,18
+Eric Simon,Student,M,7
+Tina Harvey,Homemaker,F,60
+Meagan Bennett,Senior Citizen,F,66
+Jose Neal,Senior Citizen,M,65
+Bryan Ray,Homemaker,M,53
+Keith Jackson,Student,M,10
+Joshua Wright,Homemaker,M,55
+Megan Davis,Senior Citizen,F,76
+Karen Moses,Senior Citizen,F,71
+Meagan Cole,Student,F,16
+Tyler Martinez,Professional,M,39
+Jose Shah,Teenager,M,16
+Amy Powell,Retiree,F,79
+Deborah Martin,Senior Citizen,F,73
+Joseph Swanson,Student,M,18
+Gabrielle Booker,Young Adult,F,22
+Tracy Price,Teenager,F,16
+Ms. Breanna Gaines,Retiree,F,62
+Christine Cook,Senior Citizen,F,68
+Kevin Jimenez,Young Adult,M,29
+Brenda James,Student,F,12
+Mr. Henry Watson DDS,Senior Citizen,M,71
+Shane Mullins,Retiree,M,64
+Patricia Richards,Homemaker,F,49
+Sarah Carter,Professional,F,52
+Jessica Taylor,Young Adult,F,18
+Sandra Gutierrez,Retiree,F,74
+Tonya Smith,Senior Citizen,F,75
+Julie Singh,Senior Citizen,F,63
+Lauren Skinner,Teenager,F,18
+Wanda Curry,Retiree,F,75
+Stephen Todd,Professional,M,36
+Michael Farrell,Middle-Aged,M,49
+Glenn Hill,Senior Citizen,M,80
+Frank Castillo,Professional,M,30
+Brian Brown,Teenager,M,19
+Daniel Spencer,Senior Citizen,M,76
+Carolyn Mills,Teenager,F,17
+Nicholas Harrell,Senior Citizen,M,60
+Stephanie Carlson,Middle-Aged,F,58
+John Stephens,Student,M,11
+David Jackson,Homemaker,M,30
+Harry Thomas,Young Adult,M,30
+Stephanie Byrd,Professional,F,44
+Daniel Hubbard,Retiree,M,75
+Jennifer Estrada,Student,F,7
+Stephanie Ruiz,Young Adult,F,22
+Rodney Mann,Professional,M,50
+Stephanie Wallace,Student,F,8
+David Chambers,Young Adult,M,20
+Nicole May,Teenager,F,15
+Amy Beck,Teenager,F,16
+Catherine Owens,Homemaker,F,41
+Michael Young,Senior Citizen,M,74
+Katrina Patterson,Retiree,F,72
+Scott Cunningham,Student,M,8
+Shannon Davis,Middle-Aged,F,56
+Taylor Wells,Professional,M,32
+Deborah Perry,Teenager,F,19
+Evelyn Lewis,Homemaker,F,34
+Luis Taylor,Teenager,M,19
+Nicholas Rogers,Professional,M,42
+Justin Miller,Retiree,M,69
+Luis Calhoun,Retiree,M,60
+Stephen Galloway,Middle-Aged,M,41
+Michael Smith MD,Retiree,M,70
+Ricky Mack,Teenager,M,17
+Kevin Hernandez,Senior Citizen,M,77
