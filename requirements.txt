@@ -1,3 +1,28 @@
+scikit-learn==1.4.2
+scikit-surprise
+pandas==2.2.2 
+numpy==1.26.4 
+matplotlib==3.8.4
+seaborn==0.13.2 
+joblib==1.4.2 
+scipy==1.13.1 
+mlxtend==0.23.1 
+xgboost==2.0.3 
+lightgbm==4.3.0 
+fastapi==0.110.3 
+uvicorn==0.29.0 
+spacy==3.7.4 
+nltk==3.8.1 
+gensim==4.3.2 
+textblob==0.18.0.post0 
+transformers==4.42.2 
+tensorflow==2.16.1
+tensorflow-intel==2.12.0 
+tf-keras==2.15.0 
+keras==3.3.3 
+tensorboard==2.16.2 
+segmentation-models==1.0.1
+jupyterlab
 
 # LLM
 langchain
